@@ -12,7 +12,7 @@ body,
 div,
 span,
 applet,
-object,
+object, 
 iframe,
 h1,
 h2,
@@ -37,7 +37,7 @@ img,
 ins,
 kbd,
 q,
-s,
+s, 
 samp,
 small,
 strike,
@@ -127,7 +127,7 @@ q {
 blockquote:before,
 blockquote:after,
 q:before,
-q:after {
+q:after { 
   content: "";
   content: none;
 }
